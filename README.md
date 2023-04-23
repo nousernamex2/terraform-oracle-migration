@@ -12,7 +12,7 @@
   </ol>
 </details>
 
-<p>This module was used in production to enable an external service provider to integrate an on-prem Oracle DB on two different environments (PROD/DEV) on AWS RDS. The module has been anonymized here to protect the client. For the migration, the necessary S3 Buckets are already created in the mother account.
+<p>This module was used in production to enable an external service provider to migrate an on-prem Oracle DB on two different environments (PROD/DEV) into an AWS RDS. The module has been anonymized here to protect the client. For the migration, the necessary S3 Buckets are already created in the mother account.
   This repo is just to give an illustration of my handling of Terraform.
   The configurations are stored in separate child modules, so that a better overview of the code is given.
 </p>
