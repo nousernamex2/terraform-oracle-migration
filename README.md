@@ -53,5 +53,4 @@ Following is an example of the imort:
 ## Contact
 
 Patrick Richter - patrick.richter@patos-it.com
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
